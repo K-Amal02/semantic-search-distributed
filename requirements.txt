@@ -1,0 +1,7 @@
+sentence-transformers
+scikit-learn
+streamlit
+# mpi4py (optionnel)
+numpy
+PyMuPDF
+joblib
