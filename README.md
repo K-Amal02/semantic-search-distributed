@@ -1,6 +1,6 @@
 # 🔍 Moteur de recherche sémantique distribué
 
-Moteur de recherche qui retrouve des documents selon leur **sens**, avec comparaison de plusieurs stratégies d'encodage parallèle/distribué.
+Moteur de recherche qui retrouve des documents selon leur **sens**, avec comparaison de plusieurs stratégies d'encodage parallèle.
 
 ## Fonctionnalités
 
