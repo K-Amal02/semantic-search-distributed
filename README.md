@@ -10,6 +10,10 @@ Moteur de recherche qui retrouve des documents selon leur **sens**, avec compara
 - Trois stratégies d'encodage parallèle comparées : **joblib**, **multiprocessing**, **MPI**
 - Sauvegarde des résultats de recherche dans `search_results.txt`
 
+
+https://github.com/user-attachments/assets/883b17f7-85a7-4dd5-af5a-98d75acd23ac
+
+
 ## Structure du projet
 
 ```
